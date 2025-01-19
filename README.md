@@ -8,7 +8,6 @@
 
 ### 🛠️ Tech Stacks
 
-|                      |                                                                                                                                                                                                                                                                                                                                         |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**  | ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)![SQL](https://img.shields.io/badge/SQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)                                 |
 | **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)![LangChain](https://img.shields.io/badge/LangChain-0A0A0A.svg?&style=for-the-badge&logo=LangChain&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white) |
