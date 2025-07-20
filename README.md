@@ -1,7 +1,7 @@
 ### 🕺 About me
 
 안녕하세요! 👋  
-인공지능 생태계 전반에 관심이 있는 인공지능 개발자, 데이터 분석가입니다!  
+인공지능 생태계 전반에 관심이 많은 Engineer입니다!  
 
 **Interests**: AI, NLP, Model Serving, Data Engineering, Data Analysis  
 
